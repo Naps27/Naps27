@@ -1,5 +1,6 @@
 
-![banner](https://github.com/Naps27/Naps27/assets/38218110/99b99728-0e5d-42d0-8a91-9cd2ff3b945f)
+![banner (1)](https://github.com/Naps27/Naps27/assets/38218110/1c6f1256-64ca-4312-8df3-e82b8172f6f3)
+
 
 ### 😄 - Pronouns: He/Him
 ### 📖 - Currently Reading: *A Kingdom of Flesh and Fire*
