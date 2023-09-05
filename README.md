@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Naps27/Naps27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://github.com/Naps27/Naps27/assets/38218110/99b99728-0e5d-42d0-8a91-9cd2ff3b945f)
 
-Here are some ideas to get you started:
+### 😄 - Pronouns: He/Him
+### 📖 - Currently Reading: *A Kingdom of Flesh and Fire*
+### 🎮 - Currently Playing: *Final Fantasy XIV*
+### 🌱 - Currently Learning: *Javascript*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <p align="center">My Github Stats :robot: </p>
+[![Naps27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naps27&theme=holi&show_icons=true&card_width=600px)](https://github.com/Naps27/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naps27&theme=holi)](https://github.com/Naps27/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Naps27&theme=holi-theme&hide_border=true&card_width=904)](https://git.io/streak-stats)
+
+
+
