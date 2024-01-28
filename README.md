@@ -1,4 +1,5 @@
-![napoleonie](https://github.com/Naps27/Naps27/assets/38218110/de119236-10fa-4a88-b5cb-27665269f1e6)
+
+![napoleonie close logo](https://github.com/Naps27/Naps27/assets/38218110/c478b3b2-c65e-4cad-a0f7-2c7bfca33842)
 
   <h3 align="left">
 😄 - Pronouns: <i>He/Him</i>
